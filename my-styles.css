@@ -49,6 +49,7 @@
 .head{
     display: flex;
     padding: 20px;
+    padding-top: 50px;
     align-items: center;
     justify-content: center;
 }
