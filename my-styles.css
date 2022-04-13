@@ -9,7 +9,7 @@
     nav{
         background: #CED4DA;
         height: 40px;
-        width: 100%;
+        width: 70%;
         position: fixed;
     }
     
@@ -52,6 +52,7 @@
     padding-top: 50px;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 .image{
@@ -226,8 +227,9 @@ h5, h6{
 
 nav{
     font-size: 5px;
-    padding: 3px 5px;
-
+    height: 70px;
+    /* width: auto; */
+    display: inline;
 }
 
 }
@@ -235,6 +237,6 @@ nav{
 
 
 .footer {
-    background-color: #343A40;
+    background-color: #3333;
     padding: 1em;
 }
